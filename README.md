@@ -4,6 +4,8 @@ It was made by three people:
   - Fernando Sotelo (Animations and drawings)
   - Hugo Paniagua (Drawings and questions)
   - Diego Bravo (Code)
+
+
 This was my very first approach working on a team project like this, i had so much fun tbh.
 There are some things that can be improved but we only had about one month to make it while working on another 8 subjects at high school so we kinda rushed it.
 
